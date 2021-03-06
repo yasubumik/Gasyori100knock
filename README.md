@@ -25,43 +25,8 @@ HOMEPAGE >> https://yoyoyo-yo.github.io/Gasyori100knock/
 
 - ***Chinese ver (by gzr2017) https://github.com/gzr2017/ImageProcessing100Wen***
 
-- ***自分の画像で画像処理をためすSaas IMORI https://yoyoyo-yo.github.io/IMORI/***
+- ***ディープラーニング∞ノック!! （ほぼTips化してるけど） https://github.com/yoyoyo-yo/DeepLearningMugenKnock***
 
-- ***ディープラーニング∞ノック!!は （ほぼTips化してるけど） https://github.com/yoyoyo-yo/DeepLearningMugenKnock***
-
-## Update
-
-- 2020.5.30 Question 21-30をjupyter化
-- 2020.5.8 Question 01-20をjupyter化。Google colabで使える様にして環境構築を必要なくしました。
-- 2020.4.27 **#git cloneしなくてもいいように使用変更しました**
-- 2020.4.27 [Python]チュートリアルを更新 jupyter対応
-- 2019.12.16 自分の持ってる画像で画像処理をためすPoCを追加　[IMORI](https://yoyoyo-yo.github.io/IMORI/)　
-- 2019.11.22 [C++] Q.49~50 モルフォロジー処理（オープンイング、クロージング）を追加
-- 2019.11.21 [C++] Q.48 モルフォロジー処理（収縮）を追加
-- 2019.11.20 [C++] Q.47 モルフォロジー処理（膨張）を追加
-- 2019.10.27 [C++] Q.44~46 Hough直線検出を追加、[Python]の解答を修正
-- 2019.10.22 [C++] Q.41~43 Cannyのエッジ検出を追加, [Python] の解答を修正
-- 2019.9.3 [Python] Q.81~100のAnswerコードをメソッド化
-- 2019.9.2 [Python] Q.61~80のAnswerコードをメソッド化
-- 2019.8.28 [Python] Q.51~60のAnswerコードをメソッド化
-- 2019.8.18 [Python] Q.50までのAnswerコードをメソッド化
-- 2019.8.12 [C++]Q.36-40の解答追加
-- 2019.7.32 [C++]Q.32-35の解答追加
-- 2019.7.23 [C++]Q.30-31の解答追加
-- 2019.7.22 [C++]Q.25-29の解答追加
-- 2019.6.30 Q.21-24のC++の解答追加
-- 2019.6.8 JavaScriptのチュートリアルを追加
-- 2019    Q.11-20 C++ を追加　Q.15 Sobelを修正
-- 2019.3.25 Q.31 フーリエ系 Q.36 DCT,  Q.47,48 トップハット変換系を修正
-- 2019.3.13 Q95-100 Neural Networkを修正
-- 2019.3.8 Questions_01_10 にC++の解答を追加！
-- 2019.3.7 TutorialにC++用を追加　そろそろC++用の答えもつくろっかなーと
-- 2019.3.5 各Questionの答えをanswersディレクトリに収納
-- 2019.3.3 Q.18-22. 一部修正
-- 2019.2.26 Q.10. メディアンフィルタの解答を一部修正
-- 2019.2.25 Q.9. ガウシアンフィルタの解答を一部修正
-- 2019.2.23 Q.6. 減色処理のREADMEを修正
-- 2019.1.29 HSVを修正
 
 ## [チュートリアル](Tutorial)
 
@@ -71,8 +36,9 @@ What language do you use?
 - [I'm C++ !!](Tutorial/README_opencv_c_install.md)
 - [JavaScript is God!](Tutorial/README_javascript.md)
 
-どれも以下の内容です
+ Contents
 
+0. 画像処理の基礎知識(Pythonのみ)
 1. インストール
 2. 画像読み込み・表示
 3. 画像のコピー
