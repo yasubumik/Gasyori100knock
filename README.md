@@ -1,4 +1,4 @@
-<img src="icons/icon.png" width=300>
+<img src="icons/icon_tran.png" width=300>
 
 # 画像処理100本ノック!!
 
