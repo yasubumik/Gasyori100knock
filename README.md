@@ -2,6 +2,7 @@
 
 # 画像処理100本ノック!!
 
+
 HOMEPAGE >> https://yoyoyo-yo.github.io/Gasyori100knock/
 
 画像処理の初学者のための問題１００問
@@ -14,11 +15,10 @@ HOMEPAGE >> https://yoyoyo-yo.github.io/Gasyori100knock/
 - **あくまで趣味ベースで作ったものなので、プルリクエストは受け付けてますが依頼などは一切受け付けません
 そこをご理解頂けた方のみご利用下さい**
 
-もしこれがみなさんのお役に立ったらGithub Sponsorになってください！
 
 ## Adv
 
-- ***Study-AI株式会社様 http://kentei.ai/ のAI実装検定のシラバスに使用していただくことになりました！(ディープラーニング無限ノックも）Study-AI株式会社様ではAIスキルを学ぶためのコンテンツを作成されており、AIを学ぶ上でとても参考になります！
+- ***Study-AI株式会社様 http://kentei.ai/ のAI実装検定のシラバスに使用していただくことになりました！(ディープラーニング無限ノックも）Study-AI株式会社様ではAIスキルを学ぶためのコンテンツを作成されています！
 検定も実施されてるので、興味ある方はぜひ受けることをお勧めします！***
 
 - ***English ver (by KuKuXia) https://github.com/KuKuXia/Image_Processing_100_Questions***
@@ -213,7 +213,7 @@ adaptivebinalizatino, poison image blending
 
 ## License
 
-&copy; Curry yoshi All Rights Reserved.
+&copy; tired imori All Rights Reserved.
 
 This is under MIT License.
 
