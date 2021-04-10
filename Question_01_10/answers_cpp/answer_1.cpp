@@ -31,7 +31,6 @@ cv::Mat channel_swap(cv::Mat img){
 int main(int argc, const char* argv[]){
   // read image
   cv::Mat img = cv::imread("imori.jpg", cv::IMREAD_COLOR);
-  std::cout << "hello" << std::endl;
   // channel swap
   cv::Mat out = channel_swap(img);
 
